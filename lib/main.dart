@@ -6,8 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import "package:velocity_x/velocity_x.dart";
-import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 void main() async {
   await Hive.initFlutter();
